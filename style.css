@@ -1,5 +1,6 @@
 #grad {
-  background-image: linear-gradient(to bottom right, rgb(2,0,36) 0%, rgb(108,14,224) 35%, rgb(45,6,94) 100%);
+  background-color: purple; /* For browsers that do not support gradients */
+  background-image: linear-gradient(to bottom right, rgba(136, 0, 255, 1), rgba(97, 0, 255, 1));
 }
 img {
   border-radius: 50%;
