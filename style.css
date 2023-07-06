@@ -1,7 +1,0 @@
-#grad {
-  background-color: purple; /* For browsers that do not support gradients */
-  background-image: linear-gradient(to bottom right, rgba(136, 0, 255, 1), rgba(97, 0, 255, 1));
-}
-img {
-  border-radius: 50%;
-}
